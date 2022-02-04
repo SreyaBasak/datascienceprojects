@@ -1,0 +1,26 @@
+business_id,name,City,stars,review_count
+2345,Dominos Pizza,kolkata,5,200
+5687,Wow momo,Mumbai,4,101
+2345,Dominos Pizza,mumbai,5,234
+8765,Jacs Dining and Tap House,kolkata,3,89
+8765,Jacs Dining and Tap House,Mumbai,4,100
+3241,Iron Chef,Bangalore,5,201
+5687,Wow momo,Delhi,3,67
+2345,Dominos Pizza,Delhi,4,99
+5687,Wow momo,Kolkata,3,90
+8765,Jacs Dining and Tap House,Delhi,2,50
+5687,Wow momo,Bangalore,4,203
+3241,Iron Chef,Delhi,3,93
+1256,Grimaldi's Pizzeria,Mumbai,2,38
+3241,Iron Chef,Kolkata,4,149
+1256,Grimaldi's Pizzeria,Bangalore,5,256
+2345,Dominos Pizza,Chennai,4.3,223
+5687,Wow momo,Chennai,5,260
+8765,Jacs Dining and Tap House,jaipur,2,47
+3241,Iron Chef,Hyderabad,4.5,178
+2345,Dominos Pizza,jaipur,3.2,100
+1256,Grimaldi's Pizzeria,Hyderabad,3.8,159
+8765,Jacs Dining and Tap House,Hyderabad,5,270
+1256,Grimaldi's Pizzeria,Chennai,3,120
+3241,Iron Chef,Chennai,4,188
+5687,Wow momo,Hyderabad,4,198
